@@ -25,7 +25,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-[📘 Baixar o PDF do Ebook](https://github.com/Ichlee/prompts-recipe-to-create-a-ebook/raw/main/output/fundamentos_futevolei.pdf)
+[📘 Baixar o PDF do Ebook](https://github.com/Ichlee/projeto_santander_futevolei_final/blob/main/output/fundamentos_futevolei.pdf)
 
 ## 💻 Tecnologias utilizadas no projeto
 
